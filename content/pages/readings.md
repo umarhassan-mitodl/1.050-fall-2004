@@ -10,7 +10,7 @@ title: Readings
 uid: 046f2c3f-662d-736c-dce5-648789e2ba0a
 ---
 
-This course's required textbook is {{% resource_link "88ef7fb4-552c-468f-ad72-9fdb9089b852" "_Engineering Mechanics for Structures_" %}}, written by Professor Louis Bucciarelli in 2002. This section contains links to full text versions of the book chapters.
+This course's required textbook is [_Engineering Mechanics for Structures_](http://store.doverpublications.com/0486468550.html), written by Professor Louis Bucciarelli in 2002. This section contains links to full text versions of the book chapters.
 
 Book Chapters
 -------------
