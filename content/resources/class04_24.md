@@ -5,6 +5,8 @@ description: This resource includes a gallary of six problems drawn from past ye
 file: /courses/1-050-solid-mechanics-fall-2004/b6bc9ae14f37e666230e6a845a60e97c_class04_24.pdf
 file_size: 47023
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

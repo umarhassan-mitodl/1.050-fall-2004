@@ -5,6 +5,8 @@ description: This resource explains how to find the reactions at the wall and th
 file: /courses/1-050-solid-mechanics-fall-2004/0d89665d895275401bfd19b2ae6df187_class04_23.pdf
 file_size: 15781
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

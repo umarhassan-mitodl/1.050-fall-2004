@@ -5,6 +5,8 @@ description: This resource includes exercises to deduce  the reaction forces fro
 file: /courses/1-050-solid-mechanics-fall-2004/ee9f283396502dcb0a77c434289e46a5_class04_3.pdf
 file_size: 17172
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource includes static equilibrium analysis of opening the u
 file: /courses/1-050-solid-mechanics-fall-2004/e2fc0b5767e643f21209d818350815aa_class04_4a.pdf
 file_size: 36907
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

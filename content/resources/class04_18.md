@@ -7,6 +7,8 @@ description: 'This resource includes exercises to estimate the shear stress acti
 file: /courses/1-050-solid-mechanics-fall-2004/c402311d0fe361fed8ce4696a9db53de_class04_18.pdf
 file_size: 16480
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

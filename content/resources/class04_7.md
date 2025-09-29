@@ -5,6 +5,8 @@ description: This resource includes exercises to deduce, from the geometry, an e
 file: /courses/1-050-solid-mechanics-fall-2004/4e04697a8e05161f79ea4f6a1804b717_class04_7.pdf
 file_size: 17576
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

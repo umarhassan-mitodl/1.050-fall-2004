@@ -32,6 +32,7 @@
     "website": "1-050-solid-mechanics-fall-2004"
   },
   "course_title": "Solid Mechanics",
+  "hide_download": true,
   "course_description": "1.050 is a sophomore-level engineering mechanics course, commonly labelled \"Statics and Strength of Materials\" or \"Solid Mechanics I.\" This course introduces students to the fundamental principles and methods of structural mechanics. Topics covered include: static equilibrium, force resultants, support conditions, analysis of determinate planar structures (beams, trusses, frames), stresses and strains in structural elements, states of stress (shear, bending, torsion), statically indeterminate systems, displacements and deformations, introduction to matrix methods, elastic stability, and approximate methods. Design exercises are used to encourage creative student initiative and systems thinking.\n",
   "department_numbers": [
     "1"
@@ -42,6 +43,7 @@
     "content": "04ccfbaa-c96b-d5e4-b3d6-4adb5386f457",
     "website": "1-050-solid-mechanics-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Simulations",
     "Activity Assignments",

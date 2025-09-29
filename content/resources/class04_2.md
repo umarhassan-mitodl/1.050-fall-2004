@@ -7,6 +7,8 @@ description: 'This resource includes exercises to show the the line of action of
 file: /courses/1-050-solid-mechanics-fall-2004/7e238e23e17d44a9e187a3742e032e59_class04_2.pdf
 file_size: 15956
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource includes exercises on deriving a given equation.
 file: /courses/1-050-solid-mechanics-fall-2004/b9a7fc9b735c3fe4446cfe6d72826478_class04_11.pdf
 file_size: 13360
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
