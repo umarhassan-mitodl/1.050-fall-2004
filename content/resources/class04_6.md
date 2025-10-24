@@ -5,8 +5,6 @@ description: This resource includes exercises to show an equivalent system of a 
 file: /courses/1-050-solid-mechanics-fall-2004/a9d75392f7b792db0c3c39ebef220dfa_class04_6.pdf
 file_size: 10915
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

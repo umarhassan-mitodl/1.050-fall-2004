@@ -5,8 +5,6 @@ description: This resource includes information on concept of force, concept of 
 file: /courses/1-050-solid-mechanics-fall-2004/4a78b7668ad961549681ce0e42f95b66_emech2_04.pdf
 file_size: 376074
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

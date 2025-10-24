@@ -7,8 +7,6 @@ description: 'This resource includes exercises to develop a quadratic equation f
 file: /courses/1-050-solid-mechanics-fall-2004/ac11b3ce3699a8e1701b5e64147c97f6_class04_20.pdf
 file_size: 17252
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

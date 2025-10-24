@@ -5,8 +5,6 @@ description: This resource includes a collection of six problems drawn from past
 file: /courses/1-050-solid-mechanics-fall-2004/7fc62dedba5eb7648dc10839bf742c1b_class04_25.pdf
 file_size: 50455
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource includes exercises to draw the mohr?s circle represen
 file: /courses/1-050-solid-mechanics-fall-2004/575225e2101c588f939b1bb3f88d5c46_class04_15.pdf
 file_size: 12583
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

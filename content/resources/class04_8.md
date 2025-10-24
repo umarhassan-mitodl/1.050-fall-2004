@@ -5,8 +5,6 @@ description: This resource includes exercises to determine how the internal (ben
 file: /courses/1-050-solid-mechanics-fall-2004/91bb8d0db9ca32c569333d96ed3e69e3_class04_8.pdf
 file_size: 11862
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

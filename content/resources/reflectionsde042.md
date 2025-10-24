@@ -5,8 +5,6 @@ description: This resource includes reflections on Design Exercise 2, a truss de
 file: /courses/1-050-solid-mechanics-fall-2004/897ccc4802a7f72e94d6caf77de98b29_reflectionsde042.pdf
 file_size: 45094
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

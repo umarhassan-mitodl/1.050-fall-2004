@@ -4,8 +4,6 @@ description: This resource includes a set of four problem statements.
 file: /courses/1-050-solid-mechanics-fall-2004/a56f8d41e88bec7a7f082dc9b8ad393d_pset04_3.pdf
 file_size: 33131
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

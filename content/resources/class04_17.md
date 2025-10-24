@@ -5,8 +5,6 @@ description: This resource includes exercise to find centroid of each section, a
 file: /courses/1-050-solid-mechanics-fall-2004/c0e712a152ec668eb16131b9d95114e8_class04_17.pdf
 file_size: 11918
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

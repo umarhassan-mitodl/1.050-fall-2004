@@ -3,8 +3,6 @@ content_type: page
 description: This section offers required textbook i.e. Engineering Mechanics for
   Structures, written by Professor Louis Bucciarelli in 2002 and contains links to
   full text versions of the book chapters.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

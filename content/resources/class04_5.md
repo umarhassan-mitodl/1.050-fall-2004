@@ -5,8 +5,6 @@ description: This resource includes exercises to write out the two requirements 
 file: /courses/1-050-solid-mechanics-fall-2004/a279dd96f3e6de2514e6cd0a32517d03_class04_5.pdf
 file_size: 16347
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This section provides direct links to all of the interactive exerci
   such as "Trussworks," a matrix analysis tool for truss structures, "Frameworks,"
   a similar tool for frame structures, and "Steel Sections," a database of steel beam
   sections.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

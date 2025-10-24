@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus contains course objectives and list of materials for the
   course, along with the grading criteria.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

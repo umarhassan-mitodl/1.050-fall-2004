@@ -5,8 +5,6 @@ description: This resource talks about how To develop a two-dimensional model of
 file: /courses/1-050-solid-mechanics-fall-2004/57e8725cae47b1f26dd2d60102500070_class03_13.pdf
 file_size: 24553
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

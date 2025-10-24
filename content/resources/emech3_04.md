@@ -8,8 +8,6 @@ description: 'This resource includes informations on internal forces in members 
 file: /courses/1-050-solid-mechanics-fall-2004/5070a932644d2cb44cc965ac56f79c66_emech3_04.pdf
 file_size: 560797
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
